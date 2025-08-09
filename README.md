@@ -12,12 +12,12 @@ High Accuracy: Achieved ~99% validation accuracy
 
 📂 Dataset
 The dataset used is the German Traffic Sign Recognition Benchmark (GTSRB) from Kaggle:
-🔗 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download
+🔗 GTSRB Dataset on Kaggle
 
-Install dependencies:
+🛠 Installation
+1. Install dependencies
 pip install -r requirements.txt
-
-Download & place dataset inside data/ folder:
+2. Download & place dataset inside data/ folder
 data/
 ├── Train/
 ├── Test/   (optional)
@@ -33,6 +33,5 @@ predictions = model.predict(new_images)
 📊 Results
 Validation Accuracy: ~99.46%
 
-Confusion Matrix:
-The model performs exceptionally well across all traffic sign classes.
+Confusion Matrix: The model performs exceptionally well across all traffic sign classes.
 
