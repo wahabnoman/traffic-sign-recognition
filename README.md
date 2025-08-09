@@ -14,11 +14,6 @@ High Accuracy: Achieved ~99% validation accuracy
 The dataset used is the German Traffic Sign Recognition Benchmark (GTSRB) from Kaggle:
 🔗 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download
 
-🛠 Installation
-Clone this repository:
-git clone https://github.com/YOUR_USERNAME/traffic-sign-recognition.git
-cd traffic-sign-recognition
-
 Install dependencies:
 pip install -r requirements.txt
 
